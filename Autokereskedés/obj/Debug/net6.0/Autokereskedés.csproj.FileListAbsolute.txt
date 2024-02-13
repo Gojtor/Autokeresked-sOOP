@@ -1,0 +1,74 @@
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.exe
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.deps.json
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.runtimeconfig.json
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.dll
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.pdb
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.AssemblyReference.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfoInputs.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfo.cs
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.CoreCompileInputs.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.dll
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\refint\Autokereskedés.dll
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.pdb
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.genruntimeconfig.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\Autokereskedés\Autokereskedés\obj\Debug\net6.0\ref\Autokereskedés.dll
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.exe
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.deps.json
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.runtimeconfig.json
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.dll
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.pdb
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.AssemblyReference.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfoInputs.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfo.cs
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.CoreCompileInputs.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.dll
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\refint\Autokereskedés.dll
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.pdb
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.genruntimeconfig.cache
+C:\Users\gabik\OneDrive - Eotvos Lorand Tudomanyegyetem\MásodikFélév\OEP\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\ref\Autokereskedés.dll
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.AssemblyReference.cache
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.GeneratedMSBuildEditorConfig.editorconfig
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfoInputs.cache
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfo.cs
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.CoreCompileInputs.cache
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.dll
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\refint\Autokereskedés.dll
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.pdb
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.exe
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.deps.json
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.runtimeconfig.json
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.dll
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.pdb
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\TextFile.dll
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.CopyComplete
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.genruntimeconfig.cache
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\obj\Debug\net6.0\ref\Autokereskedés.dll
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\autokerInput.txt
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\autokInput.txt
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\partnerekInput.txt
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\szerződésekInput.txt
+M:\Egyetem\MásodikFélév\OEP\AutokerCopy\AutokerCopy\Autokereskedés\Autokereskedés\bin\Debug\net6.0\inputEgyben.txt
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\autokerInput.txt
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\autokInput.txt
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\inputEgyben.txt
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\partnerekInput.txt
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\szerződésekInput.txt
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.exe
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.deps.json
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.runtimeconfig.json
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.dll
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\Autokereskedés.pdb
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\bin\Debug\net6.0\TextFile.dll
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.AssemblyReference.cache
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfoInputs.cache
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.AssemblyInfo.cs
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.CoreCompileInputs.cache
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.csproj.CopyComplete
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.dll
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\refint\Autokereskedés.dll
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.pdb
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\Autokereskedés.genruntimeconfig.cache
+C:\Users\gabik\Desktop\Egyetem\OEPBeadando\Autokereskedés\Autokereskedés\obj\Debug\net6.0\ref\Autokereskedés.dll

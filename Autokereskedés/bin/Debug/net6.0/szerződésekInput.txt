@@ -1,0 +1,2 @@
+vétel,Gibsz Jakab Autókereskedése,kicsikocsi7,Józsi bácsi,2023.06.02,2000000
+vétel,John Doe Autókereskedése,kicsikocsi7,Pisti bácsi,2023.06.02,2000000

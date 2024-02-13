@@ -1,0 +1,27 @@
+autókereskedés,Gibsz Jakab Autókereskedése
+autókereskedés,John Doe Autókereskedése
+autó,audi,kicsikocsi1,2002,2000000,Dízel,Gibsz Jakab Autókereskedése
+autó,skoda,kicsikocsi2,2003,2000000,Benzin,Gibsz Jakab Autókereskedése
+autó,mazda,kicsikocsi3,2004,2000000,Dízel,Gibsz Jakab Autókereskedése
+autó,audi,kicsikocsi4,2002,2000000,Dízel,Gibsz Jakab Autókereskedése
+autó,audi,kicsikocsi5,2002,2000000,Dízel,Gibsz Jakab Autókereskedése
+autó,audi,kicsikocsi6,2002,2000000,Dízel,Gibsz Jakab Autókereskedése
+autó,audi,kicsikocsi7,2002,2000000,Dízel
+autó,audi,kicsikocsi8,2002,2000000,Dízel,John Doe Autókereskedése
+autó,skoda,kicsikocsi9,2003,2000000,Benzin,John Doe Autókereskedése
+autó,mazda,kicsikocsi10,2004,2000000,Dízel,John Doe Autókereskedése
+autó,audi,kicsikocsi11,2002,2000000,Dízel,John Doe Autókereskedése
+autó,audi,kicsikocsi12,2002,2000000,Dízel,John Doe Autókereskedése
+autó,audi,kicsikocsi13,2002,2000000,Dízel,John Doe Autókereskedése
+autó,audi,kicsikocsi14,2002,2000000,Dízel
+autó,audi,kicsikocsi15,2019,2000000,Elektromos
+autó,audi,kicsikocsi16,2018,2000000,Hibrid
+autó,skoda,kicsikocsi17,2008,2000000,Benzin
+autó,mazda,kicsikocsi18,2010,2000000,Dízel
+autó,audi,kicsikocsi19,2012,2000000,Benzin
+autó,skoda,kicsikocsi20,2021,2000000,Hibrid
+autó,audi,kicsikocsi21,2014,2000000,Dízel
+partner,Józsi bácsi
+partner,Pisti bácsi
+szerződés,vétel,Gibsz Jakab Autókereskedése,kicsikocsi7,Józsi bácsi,2023.06.02,2000000
+szerződés,vétel,John Doe Autókereskedése,kicsikocsi7,Pisti bácsi,2023.06.02,2000000
